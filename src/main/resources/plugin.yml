@@ -1,0 +1,5 @@
+name: SleepPlus
+version: '${project.version}'
+main: com.staryears.sleepplus.SleepPlus
+api-version: '1.21'
+description: 一个增强Minecraft睡眠机制的插件
